@@ -10,6 +10,7 @@ export default function Home() {
       <Head>
         <title>PM BankApp</title>
         <meta name="description" content="PM BankApp" />
+        <link rel="shortcut icon" href="/logo.ico" />
       </Head>
 
       <div className={`${styles.paddigX} ${styles.flexCenter}`}>
